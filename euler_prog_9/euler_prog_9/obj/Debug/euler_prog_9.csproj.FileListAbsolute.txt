@@ -1,0 +1,8 @@
+c:\source\challenges\euler_prog_9\euler_prog_9\obj\Debug\ResolveAssemblyReference.cache
+c:\source\challenges\euler_prog_9\euler_prog_9\obj\Debug\euler_prog_9.Form1.resources
+c:\source\challenges\euler_prog_9\euler_prog_9\obj\Debug\euler_prog_9.Properties.Resources.resources
+c:\source\challenges\euler_prog_9\euler_prog_9\obj\Debug\euler_prog_9.csproj.GenerateResource.Cache
+c:\source\challenges\euler_prog_9\euler_prog_9\bin\Debug\euler_prog_9.exe
+c:\source\challenges\euler_prog_9\euler_prog_9\bin\Debug\euler_prog_9.pdb
+c:\source\challenges\euler_prog_9\euler_prog_9\obj\Debug\euler_prog_9.exe
+c:\source\challenges\euler_prog_9\euler_prog_9\obj\Debug\euler_prog_9.pdb

@@ -1,0 +1,5 @@
+C:\source\challenges\euler_prog_7\euler_prog_7\euler_prog_7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\source\challenges\euler_prog_7\euler_prog_7\euler_prog_7\bin\Debug\euler_prog_7.exe
+C:\source\challenges\euler_prog_7\euler_prog_7\euler_prog_7\bin\Debug\euler_prog_7.pdb
+C:\source\challenges\euler_prog_7\euler_prog_7\euler_prog_7\obj\x86\Debug\euler_prog_7.exe
+C:\source\challenges\euler_prog_7\euler_prog_7\euler_prog_7\obj\x86\Debug\euler_prog_7.pdb
